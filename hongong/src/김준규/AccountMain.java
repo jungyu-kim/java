@@ -30,6 +30,7 @@ public class AccountMain {
 				String owner = sc.nextLine();
 				
 				System.out.print("초기입금액:");
+				System.out.println();
 				int balance = sc.nextInt();
 				sc.nextLine();
 				
